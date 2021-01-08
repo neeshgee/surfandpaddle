@@ -177,8 +177,9 @@ p {
   display: inline;
   float: left;
   padding-left: 250px;
-
-
+}
+.iylogo img {
+  height: 5em;
 }
 
 footer img {
@@ -277,8 +278,4 @@ div .post-4 {
 .splogo img {
   vertical-align: middle;
   padding: 10px;
-}
-
-.tlavon-logo img {
-  height: 5em;
 }
